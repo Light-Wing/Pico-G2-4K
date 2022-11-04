@@ -1,3 +1,16 @@
+
+### how to use:
+put the videos you want to transfer to headset inside a folder names `videos`
+then run main.py => `py main.py'
+
+make sure to have installed the dependancies, adb and python...
+
+get [Python](https://www.python.org/downloads/) 
+[install pip](https://phoenixnap.com/kb/install-pip-windows)
+run `pip install -r requirements.txt`
+get [ADB](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)
+#
+
 # Movies Folder
 
 this folder contains the video files
